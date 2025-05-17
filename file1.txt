@@ -3,3 +3,6 @@ heloo
 git push -f origin maingit push -f origin main
 
 Hello
+
+git pull --rebase origin main
+echo "Sample Change" >> test.txt; git add .; git commit -m "Code Commit"
