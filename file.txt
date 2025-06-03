@@ -1,3 +1,4 @@
 Line 1
 Change from feature branch
 Change from master branch
+This is new from feature branch
